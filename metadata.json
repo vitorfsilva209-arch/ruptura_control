@@ -1,0 +1,6 @@
+{
+  "name": "Porto Delicatéssen - Controle de Ruptura",
+  "description": "Sistema integrado para controle, registro rápido e análise de índice de ruptura de produtos por setor e horário na Padaria Porto delicatéssen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
